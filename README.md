@@ -1,2 +1,2 @@
 # CSI3680-ScriptProgramming-OU
-## Environment Setup Guide
+## Week 1: [Lab 0](Lab%200.md)
