@@ -7,3 +7,7 @@
 - [Mini System Reporter](Bash%20Overview/Mini_System_Reporter.ipynb)
 ### Handy Shell Utilities
 
+## Week 3
+
+## Week 4
+- Lab 1 will be on Tuesday, Sep 23.
