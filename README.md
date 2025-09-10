@@ -5,3 +5,5 @@
 ## Week 2
 ### Bash Overview
 - [Mini System Reporter](Bash%20Overview/Mini_System_Reporter.ipynb)
+### Handy Shell Utilities
+

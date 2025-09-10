@@ -1,0 +1,3 @@
+Alice 90 CS
+Bob 85 EE
+Charlie 92 ME

@@ -1,0 +1,7 @@
+# Sample hosts file
+127.0.0.1    localhost
+127.0.0.1    myapp.local
+::1          localhost
+
+192.168.1.10 server1.local
+192.168.1.11 server2.local
