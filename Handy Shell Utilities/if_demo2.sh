@@ -1,3 +1,5 @@
+#!/bin/bash
+
 read -p "Enter a number: " x
 if (( x > 10 )); then 
     echo "Greater than 10"

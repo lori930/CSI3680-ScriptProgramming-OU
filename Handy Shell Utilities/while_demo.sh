@@ -3,7 +3,7 @@ while (( i < 10 )); do
     i=$((i+1))
 
     if [ "$i" -eq 5 ]; then 
-        continue 
+        break 
     fi 
     echo $i 
 
