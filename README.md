@@ -8,6 +8,8 @@
 - Handy Shell Utilities
 
 ### Week 3
+- Handy Shell Utilities (cont'd)
+- Manage Users
 
 ### Week 4
-- Lab 1 will be on Tuesday, Sep 23.
+- Lab 1 will be on Tuesday, Sep 23 (or Thursday, Sep 25). TBD.
