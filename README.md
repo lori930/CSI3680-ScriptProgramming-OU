@@ -12,4 +12,8 @@
 - Manage Users
 
 ### Week 4
-- Lab 1 will be on Tuesday, Sep 23 (or Thursday, Sep 25). TBD.
+- System Maintenance
+- Lab 1 on Thursday 
+
+### Week 5
+- Fun and Games
