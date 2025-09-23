@@ -8,7 +8,7 @@ while getopts "a:bc" opt; do
         b)echo "saw -b (flag); OPTIND=[$OPTIND]" ;; 
         c)echo "saw -c (flag); OPTIND=[$OPTIND]" ;;
         :) echo "error: option -$OPTARG requires an argument" >&2 ;;
-        ?) echo"error: unknown option: -$OPTARG" >&2 ;; 
+        ?) echo "error: unknown option: -$OPTARG" >&2 ;; 
     esac
 done
 # discard all the options parsed so far
