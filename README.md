@@ -13,7 +13,8 @@
 
 ### Week 4
 - System Maintenance
-- Lab 1 on Thursday 
+- [Lab 1](Labs/CSI3680_Lab1_YOURNAME.ipynb) on Thursday 
+  - Also available on [Google Colab](https://colab.research.google.com/drive/196GGlvGShGOYrMCgYheNW4ZjHdxdG5ZP?usp=sharing)
 
 ### Week 5
 - Fun and Games
