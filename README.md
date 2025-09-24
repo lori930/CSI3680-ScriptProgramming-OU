@@ -18,3 +18,4 @@
 
 ### Week 5
 - Fun and Games
+- Python Overview
