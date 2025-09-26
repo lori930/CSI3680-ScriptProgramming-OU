@@ -18,4 +18,5 @@
 
 ### Week 5
 - Fun and Games
+  - See [Colab](https://colab.research.google.com/drive/1Xdppazh-uLcirJJoyznuewfoWSF5q8ZS?usp=sharing) for step-by-step practice 
 - Python Overview
