@@ -20,3 +20,7 @@
 - Fun and Games
   - See [Colab](https://colab.research.google.com/drive/1Xdppazh-uLcirJJoyznuewfoWSF5q8ZS?usp=sharing) for step-by-step practice 
 - Python Overview
+  - [Control Flow Practice](https://colab.research.google.com/drive/1ZgpLrzougqqHIS_9v5tg-Px9E80Pqv-1?usp=sharing)
+
+<!-- ### Week 6
+-  -->

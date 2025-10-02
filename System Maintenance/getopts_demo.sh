@@ -13,6 +13,6 @@ while getopts "a:bc" opt; do
 done
 # discard all the options parsed so far
 shift $(($OPTIND - 1))
-echo remainning parameters=[$*]
+echo remaining parameters=[$*]
 echo "\$1=[$1]"
 echo "\$2=[$2]"
