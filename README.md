@@ -24,7 +24,21 @@
   - Control Flow ([After-class practice](https://colab.research.google.com/drive/1ZgpLrzougqqHIS_9v5tg-Px9E80Pqv-1?usp=sharing))
 
 ### Week 6
-- Function
+- Functions
+  - After-class practice (Function Recursion): Using Euclid’s algorithm, the GCD of two numbers can be calculated recursively. 
+    ```
+    Recursive definition:
+    GCD(a, 0) = a
+    GCD(a, b) = GCD(b, a%b)
+    ```
+    ```
+    def gcd(a, b):
+      # Base case: b = 0
+
+      # recursive case: gcd(a, b) = gcd(b, a%b)
+
+    print(gcd(48, 18)) # Output: 6
+    ```
 - Import function
 - Class
 
