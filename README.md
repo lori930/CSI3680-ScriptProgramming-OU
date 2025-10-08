@@ -25,22 +25,11 @@
 
 ### Week 6
 - Functions
-  - After-class practice (Function Recursion): Using Euclid’s algorithm, the GCD of two numbers can be calculated recursively. 
-    ```
-    Recursive definition:
-    GCD(a, 0) = a
-    GCD(a, b) = GCD(b, a%b)
-    ```
-    ```
-    def gcd(a, b):
-      # Base case: b = 0
-
-      # recursive case: gcd(a, b) = gcd(b, a%b)
-
-    print(gcd(48, 18)) # Output: 6
-    ```
-- Import function
+  - [Demo](Functions%20and%20Classes/Function.ipynb) or [Colab](https://colab.research.google.com/drive/1foT3OfNYvet6lxSPF_x32LIv9Vhvuijh?usp=sharing)
+- Import function 
+  - [Import notebook](Functions%20and%20Classes/Import.ipynb) or [Colab](https://colab.research.google.com/drive/11YPinIoO_Mj8JZObaodUUpnuCTlwIulM?usp=sharing)
 - Class
+  - [Class notebook](Functions%20and%20Classes/Classes.ipynb) or [Colab](https://colab.research.google.com/drive/1Asrhgug_cKAuocjmUMde5wxI7w4_6Up2?usp=sharing)
 
 ### Week 7
 - Lab 2 on Tuesday
