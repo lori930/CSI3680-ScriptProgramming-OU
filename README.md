@@ -28,42 +28,42 @@
   - [Demo](Functions%20and%20Classes/Function.ipynb) or [Colab](https://colab.research.google.com/drive/1foT3OfNYvet6lxSPF_x32LIv9Vhvuijh?usp=sharing)
 - Import function 
   - [Import notebook](Functions%20and%20Classes/Import.ipynb) or [Colab](https://colab.research.google.com/drive/11YPinIoO_Mj8JZObaodUUpnuCTlwIulM?usp=sharing)
-- Class
-  - [Class notebook](Functions%20and%20Classes/Classes.ipynb) or [Colab](https://colab.research.google.com/drive/1Asrhgug_cKAuocjmUMde5wxI7w4_6Up2?usp=sharing)
 
 ### Week 7
 - Lab 2 on Tuesday
-- List
+- Classes
+  - [Class notebook](Functions%20and%20Classes/Classes.ipynb) or [Colab](https://colab.research.google.com/drive/1Asrhgug_cKAuocjmUMde5wxI7w4_6Up2?usp=sharing)
+
+
 
 ### Week 8
 - Mid-term Exam
-- String
+- List
 
 ### Week 9
+- **Project idea out**
+- String
 - Dictionary
-- Regular Expression
-
 
 ### Week 10
-- **Project idea out**
+- Regular Expression
 - Lab 3
-- Read Write Files
 
 
 ### Week 11
+- Read Write Files
 - Web Scraping
-- Office Tools
   
 ### Week 12
+- Office Tools
 - Lab 4
-- JSON and CSV
 
 
 ### Week 13 (Thanksgiving)
-- Manipulating Images
+- JSON and CSV
 
 ### Week 14
-- Shell + Python
+- Manipulating Images
 - Lab 5 (no class)
 
 ### Week 15
