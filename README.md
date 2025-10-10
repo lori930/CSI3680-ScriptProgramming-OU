@@ -33,7 +33,7 @@
 - Lab 2 on Tuesday
 - Classes
   - [Class notebook](Functions%20and%20Classes/Classes.ipynb) or [Colab](https://colab.research.google.com/drive/1Asrhgug_cKAuocjmUMde5wxI7w4_6Up2?usp=sharing)
-
+- Mid-term topics
 
 
 ### Week 8
