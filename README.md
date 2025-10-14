@@ -30,7 +30,8 @@
   - [Import notebook](Functions%20and%20Classes/Import.ipynb) or [Colab](https://colab.research.google.com/drive/11YPinIoO_Mj8JZObaodUUpnuCTlwIulM?usp=sharing)
 
 ### Week 7
-- Lab 2 on Tuesday
+- [Lab 2](Labs/CSI3680_Lab2_YOURNAME.ipynb) on Tuesday
+  - Also available on [Google Colab](https://colab.research.google.com/drive/1BMkcWlOTJCDsoULuikHRhOkAUpyXWC6_?usp=sharing) 
 - Classes
   - [Class notebook](Functions%20and%20Classes/Classes.ipynb) or [Colab](https://colab.research.google.com/drive/1Asrhgug_cKAuocjmUMde5wxI7w4_6Up2?usp=sharing)
 - Mid-term topics
