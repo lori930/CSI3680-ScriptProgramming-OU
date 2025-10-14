@@ -34,7 +34,7 @@
   - Also available on [Google Colab](https://colab.research.google.com/drive/1BMkcWlOTJCDsoULuikHRhOkAUpyXWC6_?usp=sharing) 
 - Classes
   - [Class notebook](Functions%20and%20Classes/Classes.ipynb) or [Colab](https://colab.research.google.com/drive/1Asrhgug_cKAuocjmUMde5wxI7w4_6Up2?usp=sharing)
-- Mid-term topics
+- [Mid-term topics](CSI3680-Midterm-Review.pdf)
 
 
 ### Week 8
