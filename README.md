@@ -39,7 +39,8 @@
 
 ### Week 8
 - Mid-term Exam
-- List
+- Lists
+  - [Practice](Lists,%20Strings%20and%20Dictionaries/Lists.ipynb) or [Colab](https://colab.research.google.com/drive/1Lzitg3zIELYeCenvfTxpbOT_bHUeWEfE?usp=sharing)
 
 ### Week 9
 - **Project idea out**
