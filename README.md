@@ -43,7 +43,8 @@
   - [Practice](Lists,%20Strings%20and%20Dictionaries/Lists.ipynb) or [Colab](https://colab.research.google.com/drive/1Lzitg3zIELYeCenvfTxpbOT_bHUeWEfE?usp=sharing)
 
 ### Week 9
-- **Project idea out**
+- More about OOP and Classes (see [colab](https://colab.research.google.com/drive/1y_JSoeUnHyMCQ15JJ4REaUlrgXfvRIx4?usp=sharing))
+- [**Project idea out**](Final%20Project%20Requirement.pdf)
 - String
 - Dictionary
 
