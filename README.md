@@ -45,12 +45,12 @@
 ### Week 9
 - More about OOP and Classes (see [colab](https://colab.research.google.com/drive/1y_JSoeUnHyMCQ15JJ4REaUlrgXfvRIx4?usp=sharing))
 - [**Project idea out**](Final%20Project%20Requirement.pdf)
-- String
-- Dictionary
+- Dictionary and String
+  - [Demo](Lists,%20Strings%20and%20Dictionaries/Dictionary_and_String_Demo.ipynb) or [Colab](https://colab.research.google.com/drive/1zOcmyKGKQt7SYX9uIqy1YbX2woNyDDwS?usp=sharing)
 
 ### Week 10
 - Regular Expression
-- Lab 3
+- Lab 3 on Thursday
 
 
 ### Week 11
@@ -67,7 +67,7 @@
 
 ### Week 14
 - Manipulating Images
-- Lab 5 (no class)
+- Lab 5 (Take-home)
 
 ### Week 15
-- **Project Presentation**
+- **Project Presentation** on Dec 11
