@@ -50,7 +50,8 @@
 
 ### Week 10
 - Regular Expression
-- Lab 3 on Thursday
+- [Lab 3](Labs/CSI3680_Lab3_YOURNAME.ipynb) on Thursday
+  - Also available on [Colab](https://colab.research.google.com/drive/1PS__Yf83xuYgzWprbao8gYWi7zjLiKRK?usp=sharing)
 
 
 ### Week 11
