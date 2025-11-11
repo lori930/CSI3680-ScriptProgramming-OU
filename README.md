@@ -55,19 +55,19 @@
 
 
 ### Week 11
-- Read Write Files
 - Web Scraping
+- Read Write Files
+- Office Tools
   
 ### Week 12
-- Office Tools
-- Lab 4
-
-
-### Week 13 (Thanksgiving)
 - JSON and CSV
+- Manipulating Images
+- Lab 4 on Thursday
+
+
+### Week 13 (Campus Closure)
 
 ### Week 14
-- Manipulating Images
 - Lab 5 (Take-home)
 
 ### Week 15
