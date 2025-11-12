@@ -4,6 +4,7 @@ def open_google_maps(address):
     # Construct the Google Maps URL
     url = "https://www.google.com/maps/place/" + address
     # TODO: Open the web browser with the Google Maps URL
+    webbrowser.open(url)
     
 if __name__ == "__main__":
     # Join the command line arguments to form the address
