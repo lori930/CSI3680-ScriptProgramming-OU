@@ -60,15 +60,16 @@
 - Office Tools
   
 ### Week 12
-- JSON and CSV
+- Office Tools (cont'd)
 - Manipulating Images
-- Lab 4 on Thursday
-
+- JSON and CSV
 
 ### Week 13 (Campus Closure)
+- Lab 4 as your homework
+- Enjoy your Thanksgiving holiday
 
 ### Week 14
-- Lab 5 (Take-home)
-
+- Lab 5 as your homework
+  
 ### Week 15
-- **Project Presentation** on Dec 11
+- **Project** due on Dec 11
