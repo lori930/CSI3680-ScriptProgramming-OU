@@ -1,5 +1,7 @@
 # Lab 0: Environment Setup & Verification
-This course requires you to work with **Python 3** and **Unix shell scripting**. Since you may use different operating systems (Windows, macOS, Linux), please follow the setup instructions for your system: [Python environment](Environment%20Setup%20and%20Test%20-%20Python.md), [Shell environment](Environment%20Setup%20and%20Test%20-%20Shell.md).
+This course requires you to work with **Python 3** and **Unix shell scripting**. Since you may use different operating systems (Windows, macOS, Linux), please follow the setup instructions for your system: 
+    - [Python environment](Environment%20Setup%20and%20Test%20-%20Python.md),
+    - [Shell environment](Environment%20Setup%20and%20Test%20-%20Shell.md).
 
 Once you finish both environment setup, run the following to log everything into a file:
 ```
