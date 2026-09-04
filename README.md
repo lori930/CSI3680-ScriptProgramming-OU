@@ -1,6 +1,6 @@
 # CSI3680-ScriptProgramming-OU
 
-### Bash Fundamentals
+### Bash Overview
 - Bash Reference Manual ([link](Bash%20Reference%20Manual%20-%202025.pdf))
 - [Lab 0](Environment%20Setup/Lab%200.md)
 - [Practice: Mini System Reporter](Bash%20Overview/Practice_Mini_System_Reporter.ipynb)
