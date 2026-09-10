@@ -1,0 +1,13 @@
+# Sample configuration file
+# Database settings
+DB_HOST=localhost
+DB_PORT=5432
+# DB_USER is optional
+DB_USER=admin
+DB_PASS=secret
+
+# Logging settings
+LOG_LEVEL=INFO
+#LOG_LEVEL=DEBUG
+
+APP_ENV=production
