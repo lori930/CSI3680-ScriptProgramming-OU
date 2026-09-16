@@ -3,7 +3,8 @@
 - Examples/demos from the lecture slides are available here, organized by topic 
 
 ### Labs
-- [Lab 1](Labs/CSI3680_Lab1_YOURNAME.ipynb)
+<!-- Bash overview & Handy shell utilities -->
+- [Lab 1](Labs/CSI3680_Lab1_YOURNAME.ipynb) 
   - Also available on [Google Colab](https://colab.research.google.com/drive/1-eRa1_1p_br_dLXOSkfdizYjtaaBAnIH?usp=sharing)
     - ‼️ `File` -> `Save a copy in Drive` to edit your own copy
 
