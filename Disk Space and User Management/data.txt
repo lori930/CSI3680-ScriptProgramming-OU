@@ -1,0 +1,10 @@
+/dev/disk3s1s1  1948455240    /
+devfs                  202    /dev
+/dev/disk3s6    1948455240    /System/Volumes/VM
+/dev/disk3s2    1948455240    /System/Volumes/Preboot
+/dev/disk3s4    1948455240    /System/Volumes/Update
+/dev/disk1s2        512000    /System/Volumes/xarts
+/dev/disk1s1        512000    /System/Volumes/iSCPreboot
+/dev/disk1s3        512000    /System/Volumes/Hardware
+/dev/disk3s5    1948455240    /System/Volumes/Data
+/dev/disk3s1    1948455240    /System/Volumes/Update/mnt1
