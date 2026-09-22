@@ -2,7 +2,7 @@
 - Lecture slides are uploaded to Moodle after each class
 - Examples/demos from the lecture slides are available here, organized by topic 
 
-### Labs
+### 🏔️ Labs
 <!-- Bash overview & Handy shell utilities -->
 - [Lab 1](Labs/CSI3680_Lab1_YOURNAME.ipynb) 
   - Also available on [Google Colab](https://colab.research.google.com/drive/1-eRa1_1p_br_dLXOSkfdizYjtaaBAnIH?usp=sharing)
@@ -13,7 +13,7 @@
 - [Lab 0](Environment%20Setup/Lab%200.md)
 
 
-### 1。 Bash Overview
+### 1. Bash Overview
 - Demos
 - [Practice: Mini System Reporter](Bash%20Overview/Practice_Mini_System_Reporter.ipynb)
   - Also available on [Google Colab](https://colab.research.google.com/drive/1-jIrECAcy4AvWhR0W__-nbTQ-iM36kcL?usp=sharing)
