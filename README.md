@@ -24,12 +24,15 @@
 - [The GNU Awk User's Guide](https://www.gnu.org/software/gawk/manual/gawk.html)
 - [Here Documents](https://tldp.org/LDP/abs/html/here-docs.html)
 
-### 3. Disk Space and User Management
-- Demos
+### 3. System Administration
+- Disk space reporting
+- User management
+- Backup management
 
-<!-- ### System Maintenance
+<!-- ### 4. Shell Games
+- Demos -->
 
-### Shell Games -->
+<!-- ### Shell Games -->
 
 
 <!--### Python Fundamentals -->
