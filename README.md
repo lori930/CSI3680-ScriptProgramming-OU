@@ -29,11 +29,10 @@
 - User management
 - Backup management
 
-<!-- ### 4. Shell Games
-- Demos -->
-
-<!-- ### Shell Games -->
-
+### 5. Shell Games
+- [Step-by-Step Practice](5.%20Shell%20Games/CSI3680_Let's_Roll_Some_Dice.ipynb)
+  - Also available on [Google Colab](https://colab.research.google.com/drive/1BkEmFM_yiAxPLXad9fsy_PhU_CkgLTSJ?usp=sharing)
+    - - ‼️ `File` -> `Save a copy in Drive` to edit your own copy
 
 <!--### Python Fundamentals -->
 
