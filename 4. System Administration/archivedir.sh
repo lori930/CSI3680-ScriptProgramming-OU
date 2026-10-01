@@ -1,7 +1,7 @@
 #!/bin/bash
 # archivedir -- Creates a compressed archive of the specified directory
 
-maxarchivedir=100 # size, in blocks, of big directory
+maxarchivedir=10 # size, in blocks, of big directory
 compress=gzip # change to your favorite compress tool
 progname=$(basename "$0") # nicer output format for error messages
 
