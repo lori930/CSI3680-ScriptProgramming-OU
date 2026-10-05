@@ -37,5 +37,8 @@
   - Also available on [Google Colab](https://colab.research.google.com/drive/1BkEmFM_yiAxPLXad9fsy_PhU_CkgLTSJ?usp=sharing)
     - - ‼️ `File` -> `Save a copy in Drive` to edit your own copy
 
-<!--### Python Fundamentals -->
-
+### 6. Python Basics
+- Demos
+- [Control Flow Practice](6.%20Python%20Basics/Practice_Control_Flow.ipynb)
+  - Also available on [Google Colab](https://colab.research.google.com/drive/1ZgpLrzougqqHIS_9v5tg-Px9E80Pqv-1?usp=sharing)
+    - - ‼️ `File` -> `Save a copy in Drive` to edit your own copy
