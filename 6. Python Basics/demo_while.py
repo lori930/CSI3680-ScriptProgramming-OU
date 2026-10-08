@@ -1,6 +1,6 @@
 end = 2
 while True:
     if end == 256:
-        break 
+        continue 
     print(end) 
     end = end ** 2
