@@ -44,4 +44,8 @@
     - - ‼️ `File` -> `Save a copy in Drive` to edit your own copy
 
 ### 7. Function
-- [Demo on Colab](https://colab.research.google.com/drive/1X7zshFe_4s2W-J8TckzMav-MYWlvskQL?usp=sharing)
+- [Demo on Google Colab](https://colab.research.google.com/drive/1X7zshFe_4s2W-J8TckzMav-MYWlvskQL?usp=sharing)
+
+### 8. Lambda Functions, Modules, and Imports
+- [Demo Imports](8.%20Modules%20and%20Imports/Demo_Import.ipynb)
+  - Also available on [Google Colab](https://colab.research.google.com/drive/11YPinIoO_Mj8JZObaodUUpnuCTlwIulM?usp=sharing)
