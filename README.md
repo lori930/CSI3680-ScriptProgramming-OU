@@ -52,3 +52,7 @@
 ### 8. Lambda Functions, Modules, and Imports
 - [Demo Imports](8.%20Modules%20and%20Imports/Demo_Import.ipynb)
   - Also available on [Google Colab](https://colab.research.google.com/drive/11YPinIoO_Mj8JZObaodUUpnuCTlwIulM?usp=sharing)
+
+### 9. List and Dictionary
+- [Demo List and Dictionary](9.%20List%20and%20Dictionary/Demo_List_and_Dictionary.ipynb)
+  - Also available on [Google Colab](https://colab.research.google.com/drive/14ofI5HLMHG5enketUym6QcLJI4CqTKws?usp=sharing)
