@@ -56,3 +56,7 @@
 ### 9. List and Dictionary
 - [Demo List and Dictionary](9.%20List%20and%20Dictionary/Demo_List_and_Dictionary.ipynb)
   - Also available on [Google Colab](https://colab.research.google.com/drive/14ofI5HLMHG5enketUym6QcLJI4CqTKws?usp=sharing)
+
+### 10. Class and Misc.
+- [car.py](10.%20Class%20and%20Misc/car.py)
+- [WTFPython](https://github.com/satwikkansal/wtfpython)
