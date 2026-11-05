@@ -68,3 +68,6 @@
 - [demo_string.py](11.%20String%20and%20Regex/demo_string.py)
 - [Demo Regex](11.%20String%20and%20Regex/Demo_Regex.ipynb)
   - Also available on [Google Colab](https://colab.research.google.com/drive/1kIQzobTf3w_VOKeoRhNVK51Aq1eL7qUM?usp=sharing)
+
+### 12. Web Scraping
+- Demos
