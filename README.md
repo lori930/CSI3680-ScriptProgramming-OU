@@ -71,5 +71,8 @@
 
 ### 12. Web Scraping
 - Demos
+  - 💪 Run, understand, and write your own.
 
 ### 13. JSON and CSV
+- Demos
+  - 💪 Run, understand, and write your own.
