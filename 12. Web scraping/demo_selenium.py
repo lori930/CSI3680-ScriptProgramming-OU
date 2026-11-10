@@ -7,6 +7,6 @@ driver = webdriver.Chrome()
 try:
     driver.get("https://www.selenium.dev/")
     print(driver.title)
-    time.sleep(3)
+    # time.sleep(3)
 finally:
     driver.quit()

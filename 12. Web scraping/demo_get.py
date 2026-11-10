@@ -11,4 +11,4 @@ response = requests.get(
 response.raise_for_status()
 
 print(response.url)
-print(response.json()["args"])
+print(response.json()["origin"])
