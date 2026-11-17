@@ -80,3 +80,8 @@
 ### 14. File and Office Automation
 - Demos
   - 💪 Run, understand, and write your own.
+
+### 15. Image Processing and Automation
+- Demos
+- [Image Classification with ResNet-18](15.%20Image%20Processing%20and%20Automation/CSI3680_ResNet18_ImageClassification.ipynb)
+  - Also available on [Google Colab](https://colab.research.google.com/drive/1Y4WZXEupX5XXetZ11G1V20vjw_-_trIb?usp=sharing)
