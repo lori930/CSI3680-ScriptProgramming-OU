@@ -1,0 +1,54 @@
+{
+  "readings": [
+    {
+      "city": "Rochester, MI",
+      "measurements": {
+        "temperature_c": 7.5,
+        "humidity_pct": 68
+      },
+      "conditions": {
+        "description": "overcast clouds"
+      }
+    },
+    {
+      "city": "Detroit, MI",
+      "measurements": {
+        "temperature_c": 8.0,
+        "humidity_pct": 65
+      },
+      "conditions": {
+        "description": "light rain"
+      }
+    },
+    {
+      "city": "Ann Arbor, MI",
+      "measurements": {
+        "temperature_c": 6.5,
+        "humidity_pct": 72
+      },
+      "conditions": {
+        "description": "mist"
+      }
+    },
+    {
+      "city": "Chicago, IL",
+      "measurements": {
+        "temperature_c": 4.0,
+        "humidity_pct": 60
+      },
+      "conditions": {
+        "description": "clear sky"
+      }
+    },
+    {
+      "city": "Toronto, ON",
+      "measurements": {
+        "temperature_c": 3.5,
+        "humidity_pct": 75
+      },
+      "conditions": {
+        "description": "light snow"
+      }
+    }
+  ]
+}

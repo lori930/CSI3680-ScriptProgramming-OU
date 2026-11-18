@@ -16,6 +16,7 @@
 - [Lab 4](Labs/CSI3680_Lab4_YOURNAME.ipynb)
   - Also available on [Google Colab](https://colab.research.google.com/drive/1qHKFuldVa-703md1IU90Fso4a0iLKTrh?usp=sharing)
     - ‼️ `File` -> `Save a copy in Drive` to edit your own copy 
+- [Lab 5](Labs/Lab5/README.md)
 
 ### 1. Getting Started
 - Bash Reference Manual ([link](Bash%20Reference%20Manual%20-%202025.pdf))

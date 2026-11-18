@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Campus Events</title>
+<style>body{font-family:Arial,sans-serif;max-width:760px;margin:40px auto;background:#faf8f2}button{padding:12px 20px}.event-card{padding:12px 24px;margin:16px 0;background:white;border:1px solid #cbb775}</style></head>
+<body><h1>Campus Events</h1><button id="load-events">Load Events</button>
+<section id="events" aria-live="polite"></section><template id="event-list"><article class="event-card"><h2 class="event-title">Python Study Jam</h2><p class="event-date">2026-11-19</p><p class="event-location">Engineering Center</p></article>
+<article class="event-card"><h2 class="event-title">Game Night</h2><p class="event-date">2026-11-20</p><p class="event-location">Oakland Center</p></article>
+<article class="event-card"><h2 class="event-title">Robotics Showcase</h2><p class="event-date">2026-11-23</p><p class="event-location">Engineering Center Atrium</p></article>
+<article class="event-card"><h2 class="event-title">Student Research Meetup</h2><p class="event-date">2026-11-24</p><p class="event-location">Kresge Library</p></article></template>
+<script>
+const button=document.getElementById('load-events');
+button.addEventListener('click',()=>{
+ button.disabled=true;
+ const results=document.getElementById('events');
+ results.textContent='Loading events...';
+ setTimeout(()=>{results.replaceChildren(document.getElementById('event-list').content.cloneNode(true));},1200);
+});
+</script></body></html>
